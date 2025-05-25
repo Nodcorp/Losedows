@@ -1,12 +1,7 @@
-/*======================================
- * 	Windows 8 Pro Start Screen UI
- *	www.wanekeyasam.co.ke/repositories/playground/windows-8-startscreen-ui
- [ -Main Stylesheet-
-*/
 
 html,
 body{
-	background: #0d6098;
+	background: black;
 	background-image: url('../styles/images/start-screen.jpg');
 /*	 background-repeat: no-repeat;
   -moz-transform: scale(0.75, 0.75);
@@ -30,7 +25,7 @@ body{
 .mail{
 	width: 245px;
 	height: 120px;
-	background: #0079C9;
+	background: yellow;
 	position: relative;
 }
 .mail:hover{
@@ -59,7 +54,7 @@ body{
 .skype{
 	width: 120px;
 	height: 120px;
-	background: #00BEF2;
+	background: yellow;
 	position: relative;
 	top: 5px;
 	
@@ -90,7 +85,7 @@ body{
 .maps{
 	width: 120px;
 	height: 120px;
-	background: #A400AB;
+	background: yellow;
 	position: relative;
 	left: 126px;
 	top: -115px;
@@ -120,7 +115,7 @@ body{
 .readin-list{
 	width: 120px;
 	height: 120px;
-	background: #BC1E49;
+	background: yellow;
 	position: relative;
 	top: -110px;
 }
@@ -148,7 +143,7 @@ body{
 .desktop{
 	width: 245px;
 	height: 120px;
-	background: #0079C9;
+	background: yellow;
 	position: relative;
 	top: -105px;
 }
@@ -177,7 +172,7 @@ body{
 .calendar{
 	width: 245px;
 	height: 120px;
-	background: #5C3AB7;
+	background: yellow;
 	position: relative;
 	top: -600px;
 	left: 250px;
@@ -219,7 +214,7 @@ body{
 .sports{
 	width: 245px;
 	height: 120px;
-	background: #5C3AB7;
+	background: yellow;
 	position: relative;
 	top: -595px;
 	left: 250px;
@@ -249,7 +244,7 @@ body{
 .weather{
 	width: 245px;
 	height: 245px;
-	background: #2C86EE;
+	background: yellow;
 	position: relative;
 	top: -590px;
 	left: 250px;
@@ -278,7 +273,7 @@ body{
 .photos{
 	width: 120px;
 	height: 120px;
-	background: #1f849f;
+	background: yellow;
 	position: relative;
 	top: -1085px;
 	left: 500px;
@@ -307,7 +302,7 @@ body{
 .help{
 	width: 120px;
 	height: 120px;
-	background: #D9522C;
+	background: yellow;
 	position: relative;
 	top: -1079px;
 	left: 500px;
@@ -336,7 +331,7 @@ body{
 .news{
 	width: 245px;
 	height: 120px;
-	background: #B01A40;
+	background: yellow;
 	position: relative;
 	top: -1074px;
 	left: 500px;
@@ -365,7 +360,7 @@ body{
 .money{
 	width: 245px;
 	height: 120px;
-	background: #009F00;
+	background: yellow;
 	position: relative;
 	top: -1069px;
 	left: 500px;
@@ -394,7 +389,7 @@ body{
 .people{
 	width: 120px;
 	height: 120px;
-	background: #D9522C;
+	background: yellow;
 	position: relative;
 	top: -1565px;
 	left: 625px;
@@ -423,7 +418,7 @@ body{
 .ie{
 	width: 120px;
 	height: 120px;
-	background: #2D87EF;
+	background: yellow;
 	position: relative;
 	top: -1560px;
 	left: 625px;
@@ -453,7 +448,7 @@ body{
 .video{
 	width: 57px;
 	height: 57px;
-	background: #D9522C;
+	background: yellow;
 	position: relative;
 	top: -1805px;
 	left: 750px;
@@ -473,7 +468,7 @@ body{
 .camera{
 	width: 57px;
 	height: 57px;
-	background: #A5009E;
+	background: yellow;
 	position: relative;
 	top: -1800px;
 	left: 750px;
@@ -492,7 +487,7 @@ body{
 .game{
 	width: 57px;
 	height: 57px;
-	background: #00A400;
+	background: yellow;
 	position: relative;
 	top: -1919px;
 	left: 810px;
@@ -511,7 +506,7 @@ body{
 .headPhone{
 	width: 57px;
 	height: 57px;
-	background: #00A400;
+	background: yellow;
 	position: relative;
 	top: -1915px;
 	left: 810px;
@@ -531,7 +526,7 @@ body{
 .ws{
 	width: 245px;
 	height: 245px;
-	background: #1EB539;
+	background: yellow;
 	position: relative;
 	top: -2033px;
 	left: 940px;
@@ -562,7 +557,7 @@ body{
 .fd{
 	width: 245px;
 	height: 120px;
-	background: #009CAE;
+	background: yellow;
 	position: relative;
 	top: -2027px;
 	left: 940px;
@@ -590,7 +585,7 @@ body{
 .skydrive{
 	width: 120px;
 	height: 120px;
-	background: #0A5AC3;
+	background: yellow;
 	position: relative;
 	top: -2020px;
 	left: 940px;
@@ -618,7 +613,7 @@ body{
 .health{
 	width: 120px;
 	height: 120px;
-	background: #DB552D;
+	background: yellow;
 	position: relative;
 	top: -2140px;
 	left: 1065px;
